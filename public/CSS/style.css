@@ -13,9 +13,13 @@ body{
     flex-grow: 1;
 }
 
+.no-margin p{
+    margin: 0;
+}
+
 footer{
     color: #888888;
-    border-top: 1px solid #eeeeee;
+    border-top: 1px solid #dddddd;
     /* background-color: ; */
     margin-top: 16px;
     padding: 16px 0;
