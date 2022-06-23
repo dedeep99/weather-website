@@ -16,7 +16,7 @@ weatherFormBtn.addEventListener('click', (e) => {
             messageOne.textContent = data.location
             messageTwo.innerHTML = data.forecast
         }
+        })
     })
-})
     
 })
