@@ -38,7 +38,11 @@ header a {
 }
 
 .potrait{
+    background-image: url(/img/img1.jpg);
     width: 400px;
+    height: 225px;
+    background-size: contain;
+    box-shadow: 0 0 15px 15px white inset;
 }
 
 input{
