@@ -58,3 +58,7 @@ button{
 button:active{
     transform: scale(94%);
 }
+
+p{
+    line-height: 1.5;
+}
